@@ -1,1 +1,1 @@
-# code_snippets
+# Code snippets for Quix forum replies
